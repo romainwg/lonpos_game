@@ -13,10 +13,10 @@ int main()
 	int a,b,c;
 	c=0;
 	double d=0;
-	for(a=0;a<1000000;a++){
+	for(a=0;a<100000;a++){
 		for(b=0;b<10000;b++){
-			c++;
-			d=c*2;
+			//c++;
+			//d=c*2;
 		}	
 	}
 	
